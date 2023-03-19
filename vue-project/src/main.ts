@@ -8,5 +8,5 @@ import './assets/style/global.scss'
 //引入rem
 import 'amfe-flexible'
 //import './rem.js'
-
+console.log(1)
 createApp(App).mount('#app')
