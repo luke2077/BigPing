@@ -16,4 +16,7 @@ console.log(111111)
 console.log(1111)
 console.log(222222)
 console.log(33333333)
+console.log('11111');
+console.log('222222')
+
 createApp(App).mount('#app')
