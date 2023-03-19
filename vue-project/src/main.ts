@@ -11,4 +11,5 @@ import 'amfe-flexible'
 console.log(11);
 
 console.log(1)
+console.log(12)
 createApp(App).mount('#app')
